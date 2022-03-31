@@ -1,3 +1,7 @@
+## 🚩 Surge url: http://majestic-lock.surge.sh/ 🤓
+## 🚩 Etherscan url: https://rinkeby.etherscan.io/address/0x3507422918d5A96B6d5B7885b2bC616c0dEa8A48#code 🤓
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
