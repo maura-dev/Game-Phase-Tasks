@@ -1,3 +1,9 @@
+# 🏗 Vendor Etherscan URL:https://rinkeby.etherscan.io/address/0xf9759AcdA44F716065A9459cEE57e6b1CC288B69#code
+
+# 🏗 YourToken Etherscan URL:
+
+# 🏗 Surge URL:http://adjoining-thing.surge.sh/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
